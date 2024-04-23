@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Uniswap/uniswap-sdk.git",
+  "repository": "https://github.com/make-green-world/v2-base-swap-sdk.git",
   "keywords": [
     "uniswap",
     "ethereum"
